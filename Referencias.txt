@@ -1,0 +1,2 @@
+Base de Dados retirada:
+https://www.kaggle.com/adaoduque/campeonato-brasileiro-de-futebol?select=campeonato-brasileiro-full.csv
